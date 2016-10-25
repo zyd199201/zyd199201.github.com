@@ -181,6 +181,10 @@ aside b {
 	background: url(../image/bg.jpg) no-repeat center top;
 	background-size: 100% 100%;
 }
+#exp p{
+	font:16px "微软雅黑";
+	text-align: center;
+}
 #home_content,
 #about_content,
 #skill_content,
